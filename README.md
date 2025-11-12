@@ -97,9 +97,8 @@ First quantum error correction code capable of correcting arbitrary single-qubit
 - Correction logic for X and Z errors
 - Circuit visualization
 
-### Task 4: CSS [[7,1,3]] Code
+### Task 4: CSS (Steane) [[7,1,3]] Code
 Efficient stabilizer code based on classical Hamming codes:
-- CSS construction with 6 stabilizers
 - Detects and corrects X, Y, and Z errors
 - More efficient than Shor's code
 - Complete syndrome decoding
